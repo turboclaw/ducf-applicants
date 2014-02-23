@@ -1,0 +1,24 @@
+{
+  "name": "ducf-applicants",
+  "version": "0.0.0",
+  "description": "https://dl.dropboxusercontent.com/u/464092/_/cubano.gif",
+  "main": "index.js",
+  "scripts": {
+    "install": "bower install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turboclaw/ducf-applicants.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turboclaw/ducf-applicants/issues"
+  },
+  "homepage": "https://github.com/turboclaw/ducf-applicants",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-requirejs": "~0.4.1"
+  }
+}
